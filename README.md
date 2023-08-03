@@ -1,6 +1,6 @@
 # lollock
-League of Legends Auto Game Finder &amp; Accepter (S/Q)
+League of Legends Otomatik Oyun Bulucu & Kabul Edici
 
-Requirements
+Requirements / Gereken Kütüphaneler (pip install pyautogui, pip install time)
 - pyautogui
 - time
